@@ -16,6 +16,7 @@
     "MixinGuiNewChat",
     "MixinGuiOverlayDebug",
     "MixinGuiPlayerTabOverlay",
+    "MixinInventoryEffectRenderer",
     "MixinItemRenderer",
     "MixinLayerArmorBase",
     "MixinMinecraft",

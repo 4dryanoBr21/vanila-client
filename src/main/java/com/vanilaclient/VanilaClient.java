@@ -1,5 +1,6 @@
 package com.vanilaclient;
 
+import com.vanilaclient.feature.ClientBadge;
 import com.vanilaclient.feature.DynamicFov;
 import com.vanilaclient.feature.FullBright;
 import com.vanilaclient.feature.OldAnimations;
@@ -50,6 +51,7 @@ public class VanilaClient {
             FullBright.tick(mc);
         } else {
             OldAnimations.tick(mc);
+            ClientBadge.tick(mc);
         }
     }
 
