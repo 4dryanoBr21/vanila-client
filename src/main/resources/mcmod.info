@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "${modid}",
+    "name": "Vanila Client",
+    "description": "Toggle sprint, perspectiva, textos sem fundo, animações da 1.7 e correção do hit delay e full-bright.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Adriano Canto"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
